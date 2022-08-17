@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  veahicle_type: MyString
+  amount_per_hour: 1
+
+two:
+  veahicle_type: MyString
+  amount_per_hour: 1
